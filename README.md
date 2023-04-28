@@ -36,9 +36,9 @@ Repositorio del grupo ERROR 404 para la materia Programación 3
 
 ## :book: CLASES:
 
-- clase 1
+- [clase 1](https://github.com/CodeSystem2022/ERROR-404-PROGRAMACION3/tree/main/Leccion_01/MundoPc)
 
-- clase 2
+- [clase 2](https://github.com/CodeSystem2022/ERROR-404-PROGRAMACION3/tree/main/Leccion02)
 
 - clase 3
 
