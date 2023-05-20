@@ -42,7 +42,7 @@ Repositorio del grupo ERROR 404 para la materia Programación 3
 
 - [clase 3](https://github.com/CodeSystem2022/ERROR-404-PROGRAMACION3/tree/main/Leccion03): 26 Abril -  forEach, Autoboxing, Unboxing, Modificadores de accesoLección
 
-- clase 4: 03 Mayo - Sobreescritura, Polimorfismo y instanceofLección
+- [clase 4](https://github.com/CodeSystem2022/ERROR-404-PROGRAMACION3/tree/main/Leccion04): 03 Mayo - Sobreescritura, Polimorfismo y instanceofLección
 
 - clase 5: 10 Mayo
 
