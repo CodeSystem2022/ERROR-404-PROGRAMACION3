@@ -36,15 +36,15 @@ Repositorio del grupo ERROR 404 para la materia Programación 3
 
 ## :book: CLASES:
 
-- [clase 1](https://github.com/CodeSystem2022/ERROR-404-PROGRAMACION3/tree/main/Leccion_01/MundoPc): 05 Abril - Laboratorio en JavaLección
+- [clase 1](https://github.com/CodeSystem2022/ERROR-404-PROGRAMACION3/tree/main/Leccion_01/MundoPc): 05 Abril - Laboratorio en Java
 
-- [clase 2](https://github.com/CodeSystem2022/ERROR-404-PROGRAMACION3/tree/main/Leccion02): 17 Abril - Bloques y mucho másLección
+- [clase 2](https://github.com/CodeSystem2022/ERROR-404-PROGRAMACION3/tree/main/Leccion02): 17 Abril - Bloques y mucho más
 
-- [clase 3](https://github.com/CodeSystem2022/ERROR-404-PROGRAMACION3/tree/main/Leccion03): 26 Abril -  forEach, Autoboxing, Unboxing, Modificadores de accesoLección
+- [clase 3](https://github.com/CodeSystem2022/ERROR-404-PROGRAMACION3/tree/main/Leccion03): 26 Abril -  forEach, Autoboxing, Unboxing, Modificadores de acceso
 
-- [clase 4](https://github.com/CodeSystem2022/ERROR-404-PROGRAMACION3/tree/main/Leccion04): 03 Mayo - Sobreescritura, Polimorfismo y instanceofLección
+- [clase 4](https://github.com/CodeSystem2022/ERROR-404-PROGRAMACION3/tree/main/Leccion04): 03 Mayo - Sobreescritura, Polimorfismo y instanceof
 
-- clase 5: 10 Mayo
+- [clase 5](https://github.com/CodeSystem2022/ERROR-404-PROGRAMACION3/tree/main/Leccion05): 10 Mayo - Conversión de objetos, Downcasting, Upcasting, hashcode, equals, abstracción
 
 - clase 6: 17 Mayo
 
