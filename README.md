@@ -34,19 +34,19 @@ Repositorio del grupo ERROR 404 para la materia Programación 3
 
 ## <img src="https://img.icons8.com/color/50/null/java-coffee-cup-logo--v1.png"/> JAVA
 
-## :book: CLASES:
+### :book: CLASES:
 
-- [clase 1](https://github.com/CodeSystem2022/ERROR-404-PROGRAMACION3/tree/main/Leccion_01/MundoPc): 05 Abril - Laboratorio en JavaLección
+#### [clase 1](https://github.com/CodeSystem2022/ERROR-404-PROGRAMACION3/tree/main/Leccion_01/MundoPc): 05 Abril - Laboratorio en JavaLección
 
-- [clase 2](https://github.com/CodeSystem2022/ERROR-404-PROGRAMACION3/tree/main/Leccion02): 17 Abril - Bloques y mucho másLección
+#### [clase 2](https://github.com/CodeSystem2022/ERROR-404-PROGRAMACION3/tree/main/Leccion02): 17 Abril - Bloques y mucho másLección
 
-- [clase 3](https://github.com/CodeSystem2022/ERROR-404-PROGRAMACION3/tree/main/Leccion03): 26 Abril -  forEach, Autoboxing, Unboxing, Modificadores de accesoLección
+#### [clase 3](https://github.com/CodeSystem2022/ERROR-404-PROGRAMACION3/tree/main/Leccion03): 26 Abril -  forEach, Autoboxing, Unboxing, Modificadores de accesoLección
 
-- [clase 4](https://github.com/CodeSystem2022/ERROR-404-PROGRAMACION3/tree/main/Leccion04): 03 Mayo - Sobreescritura, Polimorfismo y instanceofLección
+#### [clase 4](https://github.com/CodeSystem2022/ERROR-404-PROGRAMACION3/tree/main/Leccion04): 03 Mayo - Sobreescritura, Polimorfismo y instanceofLección
 
-- clase 5: 10 Mayo
+#### [clase 5](https://github.com/CodeSystem2022/ERROR-404-PROGRAMACION3/tree/main/Leccion05): 10 Mayo -  Conversión de objetos, Downcasting, Upcasting, hashcode, equals, abstracciónLección
 
-- clase 6: 17 Mayo
+#### clase 6: 17 Mayo: Una nueva herramienta de trabajo en programaciónLección - Docker (todo material de lectura y videos)
 
 - clase 7: 24 Mayo
 
