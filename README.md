@@ -18,8 +18,6 @@ Repositorio del grupo ERROR 404 para la materia Programación 3
 
 - Alsina, Maximiliano Gabriel
 
-- Berrini, Alejandro
-
 - Calle, Sonia
 
 - Chavez, Rodrigo
