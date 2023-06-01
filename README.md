@@ -48,7 +48,7 @@ Repositorio del grupo ERROR 404 para la materia Programación 3
 
 #### clase 6: 17 Mayo: Una nueva herramienta de trabajo en programaciónLección - Docker (todo material de lectura y videos)
 
-#### clase 7: 24 Mayo
+#### [clase 7](https://github.com/CodeSystem2022/ERROR-404-PROGRAMACION3/tree/main/clase07): 24 Mayo: Interface
 
 #### clase 8: 30 Mayo
 
