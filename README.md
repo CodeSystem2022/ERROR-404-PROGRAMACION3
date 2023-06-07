@@ -48,7 +48,7 @@ Repositorio del grupo ERROR 404 para la materia Programación 3
 
 #### [clase 7](https://github.com/CodeSystem2022/ERROR-404-PROGRAMACION3/tree/main/clase07): 24 Mayo: Interface
 
-#### clase 8: 30 Mayo
+#### [clase 8](https://github.com/CodeSystem2022/ERROR-404-PROGRAMACION3/tree/main/Leccion08/ManejoExcepciones1): 30 Mayo: Excepciones
 
 ---
 
