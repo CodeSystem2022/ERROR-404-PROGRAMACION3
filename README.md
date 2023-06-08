@@ -12,21 +12,25 @@ Repositorio del grupo ERROR 404 para la materia Programación 3
 
 ## Integrantes:
 
-- Ahumada, Brian
 
-- Alancay, Abel Matias
+- [Ahumada, Brian](https://github.com/brianahumada)                        
 
-- Alsina, Maximiliano Gabriel
+- [Alancay, Abel Matias](https://github.com/matias9486)                
 
-- Calle, Sonia
+- [Alsina, Maximiliano Gabriel](https://github.com/MalsinaG)   
 
-- Chavez, Rodrigo
+- [Berrini, Alejandro](https://github.com/AlejandroEB89)                 
 
-- Costa, Maria Eugenia
+- [Calle, Sonia](https://github.com/SoCalle) 
 
-- Navarro, Lucas
+- [Chavez, Rodrigo](https://github.com/RodrigoChavez1986)                       
 
-- Sanguinetti Flores ,Pablo
+- [Costa, Maria Eugenia](https://github.com/eugenia1984)              
+
+- [Navarro, Lucas](https://github.com/LucasNavarro01)                                            
+
+- [Sanguinetti Flores, Pablo](https://github.com/Pablo1653)
+
 
 ---
 
