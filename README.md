@@ -50,6 +50,8 @@ Repositorio del grupo ERROR 404 para la materia Programación 3
 
 #### [clase 8](https://github.com/CodeSystem2022/ERROR-404-PROGRAMACION3/tree/main/Leccion08/ManejoExcepciones1): 30 Mayo: Excepciones
 
+#### clase 9: 7 Junio: Comenzamos con Proyectos: CalculadoraUTN
+
 ---
 
 ## Metodología de trabajo
