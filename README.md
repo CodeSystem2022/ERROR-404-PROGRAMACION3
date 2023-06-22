@@ -58,6 +58,7 @@ Repositorio del grupo ERROR 404 para la materia Programación 3
 
 #### clase 10: 14 Junio: Proyecto Listar Personas
 
+#### [clase 11](https://github.com/CodeSystem2022/ERROR-404-PROGRAMACION3/tree/main/Leccion_12): 21 Junio - Proyecto Listar Personas
 ---
 
 ## Metodología de trabajo
